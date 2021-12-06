@@ -1,0 +1,69 @@
+#vert{
+fill: none;
+color: #4fe084;
+height: 320px;
+stroke: #4fe084;
+stroke-width: 3;
+stroke-linecap: round;
+stroke-linejoin: round;
+stroke-miterlimit: 10;
+}
+
+#rouge{
+    fill: none;
+    color: red;
+    height: 320px;
+    stroke: red;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+#bleu{
+    fill: none;
+    color: blue;
+    height: 320px;
+    stroke: blue;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+
+#violet{
+    fill: none;
+    color: purple;
+    height: 320px;
+    stroke: purple;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+#noir{
+    fill: none;
+    color: black;
+    height: 320px;
+    stroke: black;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+
+#orange{
+    fill: none;
+    color: orange;
+    height: 320px;
+    stroke: orange;
+    stroke-width: 3;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-miterlimit: 10;
+}
+    
+    
+        
